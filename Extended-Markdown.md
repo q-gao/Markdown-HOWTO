@@ -27,14 +27,16 @@ graph LR
 ```
 
 ## More Graphs via Code Chunk
+
+### Not supported on my Windows 10 machine
+
 ```{python matplotlib:true, id:"izbp0zt9"}
 import matplotlib.pyplot as plt
 plt.plot([1,2,3, 4])
 plt.show() # show figure
 ```
 
-
-```{gnuplot output:"html"}
+```{gnuplot output:"html", id:"chj47mt54y"}
 set terminal svg
 set title "Simple Plots" font ",20"
 set key left box
@@ -44,13 +46,9 @@ set style data points
 plot [-10:10] sin(x),atan(x),cos(atan(x))
 ```
 
-```{latex}
+```{latex id:"chj47mt550"}
 \documentclass{standalone}
 \begin{document}
    Hello world!
 \end{document}
 ```
-
-
-
-
