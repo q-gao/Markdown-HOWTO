@@ -101,8 +101,6 @@ Shortcut | Description
 <tr>
 <td></td>
 </tr>
-
-
 </table>
 
 ##### Syntax highlighting inside HTML Table
