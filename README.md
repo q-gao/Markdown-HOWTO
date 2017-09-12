@@ -19,6 +19,8 @@
 [Languages Supported by Github Flavored Markdown](http://www.rubycoloredglasses.com/2013/04/languages-supported-by-github-flavored-markdown/)
 > Unfortunately the Github docs refer you to this hightlight.js test page for the list of supported languages.
 
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
+
 ## My Examples
 
 ### Table
